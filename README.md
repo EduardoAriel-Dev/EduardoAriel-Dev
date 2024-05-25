@@ -14,6 +14,22 @@
     <img src="https://img.shields.io/github/watchers/eduardoariel9900/eduardoariel9900?label=GitHub%20Visits&labelColor=736abb&color=5b55a2&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgd2lkdGg9IjI0IiAgaGVpZ2h0PSIyNCIgIHZpZXdCb3g9IjAgMCAyNCAyNCIgIGZpbGw9Im5vbmUiICBzdHJva2U9ImN1cnJlbnRDb2xvciIgIHN0cm9rZS13aWR0aD0iMiIgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgIHN0cm9rZS1saW5lam9pbj0icm91bmQiICBjbGFzcz0iaWNvbiBpY29uLXRhYmxlciBpY29ucy10YWJsZXItb3V0bGluZSBpY29uLXRhYmxlci1leWUiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMCAxMmEyIDIgMCAxIDAgNCAwYTIgMiAwIDAgMCAtNCAwIiAvPjxwYXRoIGQ9Ik0yMSAxMmMtMi40IDQgLTUuNCA2IC05IDZjLTMuNiAwIC02LjYgLTIgLTkgLTZjMi40IC00IDUuNCAtNiA5IC02YzMuNiAwIDYuNiAyIDkgNiIgLz48L3N2Zz4=" alt="GitHub Visits"></a>
 </p>
 
+<!--Sobre mi-->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+
+<p>
+  Soy estudiante de ingenieria en Informatica de la UNAJ (Universidad Nacional Arturo Jauretche), estoy en la última etapa de mi carrera.
+  
+  Me gusta aprender nuevas tecnologías para impulsar mi desarrollo como desarrollador web y expandir mis conocimientos.
+
+  Estoy emocionado por ser parte de esta comunidad y asi poder contribuir con mi granito de arena a los futuros proyectos que se me presenten en mi carrera.
+</p>
+
+**__¡Gracias por visitar mi perfil y espero tener la oportunidad de colaborar juntos!__** 
+
+<!--Skills-->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 
 <!---Esto lo habilito cuando tenga mas codigo.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=tokyonight)>
