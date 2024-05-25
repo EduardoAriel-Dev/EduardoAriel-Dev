@@ -59,10 +59,10 @@
 
 <p align="center">
   <a href="https://github.com/eduardoariel9900">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/eduardoariel9900">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoariel9900&theme=radical&hide_border=false"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoariel9900&theme=radical&hide_border=false"/>
   </a>
 </p>
 
