@@ -47,7 +47,13 @@
     <a href="https://cassandra.apache.org/doc/latest/"><img alt="Static Badge" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&logoSize=auto&labelColor=0d739c"></a>
   </p>
     
-
+- **Control de versiones y Herramientas**
+  <p>
+    <a href="https://git-scm.com/docs/git"><img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto&labelColor=d63f25"></a>
+    <a href="https://docs.github.com/es"><img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=141313"></a>
+    <a href="https://code.visualstudio.com/docs"><img alt="Static Badge" src="https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=0367b6"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&labelColor=0342b6"></a>
+  </p>
   
 
 
