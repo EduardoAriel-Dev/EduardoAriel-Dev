@@ -38,7 +38,11 @@
       <a href="https://w3schools.com/cs/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=3f20ba"></a>
       <a href="https://www.w3schools.com/python/default.asp"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=2a6396"></a>
       <a href="https://www.w3schools.com/c/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/C-232370?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&labelColor=181c5d"></a>
+      <a href="https://nodejs.org/docs/latest/api/"><img alt="Static Badge" src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=amg&labelColor=4a8b3b"></a>
+      <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=amg&labelColor=613d9b"></a>
+      <a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
   </p>
+  
 
 - **Bases de datos**
   <p>
@@ -53,8 +57,18 @@
     <a href="https://docs.github.com/es"><img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=141313"></a>
     <a href="https://code.visualstudio.com/docs"><img alt="Static Badge" src="https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=0367b6"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&labelColor=0342b6"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/adobexd-3f0497?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=amg&labelColor=2e077f"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=amg&labelColor=d83d16">
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=amg&labelColor=e6562c"></a>
   </p>
-  
+
+- **Aprendiendo actualmente**
+  <p>
+    <a href="https://react.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/react-0361a1?style=for-the-badge&logo=react&logoColor=white&logoSize=amg&labelColor=0088CC"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoSize=amg&labelColor=579e30"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=amg&labelColor=2765b0"></a>
+  </p>
+<!--My Analytics-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
@@ -67,12 +81,18 @@
 </p>
 
 <p align="center">
-  <a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
+  <a><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </p>
 
 
 
   <!---Esto lo habilito cuando tenga mas codigo.
+  Base de datos 
+
+  <a href="https://firebase.google.com/docs?hl=es-419"><img alt="Static Badge" src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-    
+     badge&logo=firebase&logoColor=white&logoSize=amg&labelColor=e8ad1d"></a>
+  <a href="https://devcenter.heroku.com/categories/reference"><img alt="Static Badge" src="https://img.shields.io/badge/heroku-430098?style=for-the- 
+     badge&logo=heroku&logoColor=white&logoSize=amg&labelColor=310580"></a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=tokyonight)>
