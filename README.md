@@ -28,7 +28,19 @@
 **__¡Gracias por visitar mi perfil y espero tener la oportunidad de colaborar juntos!__** 
 
 <!--Skills-->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+
+- **Lenguajes de programacion y marcado**
+    <p>
+     <a href="https://devdocs.io/javascript/"><img alt="Static Badge" src="https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&labelColor=c8a50d"></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=ca3e1b"></a>
+     <a href="https://lenguajecss.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=105fa0"></a>
+      <a href="https://w3schools.com/cs/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=3f20ba"></a>
+      <a href="https://www.w3schools.com/python/default.asp"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=2a6396"></a>
+  </p>
+  
+
+  
 
 
 <!---Esto lo habilito cuando tenga mas codigo.
