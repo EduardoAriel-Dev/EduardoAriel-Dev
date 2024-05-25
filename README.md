@@ -68,6 +68,7 @@
     <a><img alt="Static Badge" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoSize=amg&labelColor=579e30"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=amg&labelColor=2765b0"></a>
   </p>
+  
 <!--My Analytics-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
