@@ -55,7 +55,24 @@
     <a><img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&labelColor=0342b6"></a>
   </p>
   
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<p align="center">
+  <a href="https://github.com/eduardoariel9900">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/eduardoariel9900">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoariel9900&theme=radical&hide_border=false"/>
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
+</p>
 
 
-<!---Esto lo habilito cuando tenga mas codigo.
+
+  <!---Esto lo habilito cuando tenga mas codigo.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=tokyonight)>
