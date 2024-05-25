@@ -37,8 +37,16 @@
      <a href="https://lenguajecss.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=105fa0"></a>
       <a href="https://w3schools.com/cs/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&logoSize=auto&labelColor=3f20ba"></a>
       <a href="https://www.w3schools.com/python/default.asp"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=2a6396"></a>
+      <a href="https://www.w3schools.com/c/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/C-232370?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&labelColor=181c5d"></a>
   </p>
-  
+
+- **Bases de datos**
+  <p>
+      <a href="https://www.w3schools.com/mysql/default.asp"><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&labelColor=34658c"></a>
+    <a href="https://www.w3schools.com/mongodb/index.php"><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=amg&labelColor=378d36"></a>
+    <a href="https://cassandra.apache.org/doc/latest/"><img alt="Static Badge" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&logoSize=auto&labelColor=0d739c"></a>
+  </p>
+    
 
   
 
