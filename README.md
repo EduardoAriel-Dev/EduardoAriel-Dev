@@ -85,7 +85,10 @@
   <a><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoariel9900&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </p>
 
+## **Contactame**
 
+<a><img src="https://img.shields.io/badge/Eduardo_Monta%C3%B1o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkeIn%3A&labelColor=0a54ac&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduardo-monta%25C3%25B1o-7ab924246%2F"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/_ariel2019eduardo%40gmail.com_-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d03428" t=mail></a>
 
   <!---Esto lo habilito cuando tenga mas codigo.
   Base de datos 
