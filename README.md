@@ -58,7 +58,6 @@
     <a href="https://code.visualstudio.com/docs"><img alt="Static Badge" src="https://img.shields.io/badge/Visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=0367b6"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&labelColor=0342b6"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/adobexd-3f0497?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=amg&labelColor=2e077f"></a>
-    <a><img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=amg&labelColor=d83d16">
     <a><img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=amg&labelColor=e6562c"></a>
   </p>
 
