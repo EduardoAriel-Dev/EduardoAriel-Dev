@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midudev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
+  <a><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAriel-Dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </p>
 
 ## **Contactame**
