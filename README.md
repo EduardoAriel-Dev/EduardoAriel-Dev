@@ -15,8 +15,8 @@
 </p>
 
 <!--Sobre mi-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
+<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**-->
+## <picture><img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 50px></picture> **Sobre mi**
 <p>
   Soy estudiante de ingenieria en Informatica de la UNAJ (Universidad Nacional Arturo Jauretche), estoy en la última etapa de mi carrera.
   
