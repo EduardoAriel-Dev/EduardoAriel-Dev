@@ -64,13 +64,16 @@
 - **FrameWoks**
   <p>
     <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoSize=amg&labelColor=0b241a"></a>
+    <a href="https://react.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/react-0361a1?style=for-the-badge&logo=react&logoColor=white&logoSize=amg&labelColor=0088CC"></a>
+    
   </p>
   
 - **Aprendiendo actualmente**
   <p>
-    <a href="https://react.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/react-0361a1?style=for-the-badge&logo=react&logoColor=white&logoSize=amg&labelColor=0088CC"></a>
+    
     <a><img alt="Static Badge" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoSize=amg&labelColor=579e30"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=amg&labelColor=2765b0"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&logoSize=amg&labelColor=3f20ba"></a>
   </p>
   
 <!--My Analytics-->
