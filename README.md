@@ -63,7 +63,7 @@
   
 - **FrameWoks**
   <p>
-    <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django-0b241astyle=for-the-    badge&logo=django&logoColor=white&logoSize=amg&labelColor=23092E20"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoSize=amg&labelColor=0b241a"></a>
   </p>
   
 - **Aprendiendo actualmente**
