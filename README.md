@@ -61,9 +61,9 @@
     <a><img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=amg&labelColor=e6562c"></a>
   </p>
   
-- **FrameWoks--
+- **FrameWoks**
   <p>
-    <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django?style=for-the-    badge&logo=django&logoColor=white&logoSize=amg&label=23092E20"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django-0b241astyle=for-the-    badge&logo=django&logoColor=white&logoSize=amg&labelColor=23092E20"></a>
   </p>
   
 - **Aprendiendo actualmente**
