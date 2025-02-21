@@ -60,7 +60,10 @@
     <a><img alt="Static Badge" src="https://img.shields.io/badge/adobexd-3f0497?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=amg&labelColor=2e077f"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=amg&labelColor=e6562c"></a>
   </p>
-
+-**FrameWoks--
+  <p>
+    <a href="https://www.djangoproject.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Django?style=for-the-badge&logo=django&logoColor=white&logoSize=amg&label=%23092E20"></a>
+  </p>
 - **Aprendiendo actualmente**
   <p>
     <a href="https://react.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/react-0361a1?style=for-the-badge&logo=react&logoColor=white&logoSize=amg&labelColor=0088CC"></a>
