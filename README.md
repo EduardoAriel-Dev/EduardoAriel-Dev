@@ -73,6 +73,7 @@
     <a><img alt="Static Badge" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&logoSize=amg&labelColor=579e30"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=amg&labelColor=2765b0"></a>
     <a><img alt="Static Badge" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=amg&labelColor=04a1be"></a>
+    <a><img alt="Static Badge" src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=amg&labelColor=0198c2"></a>
   </p>
   
 <!--My Analytics-->
